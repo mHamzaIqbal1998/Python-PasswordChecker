@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce63f54-94a9-4d8d-a7a6-7cfa6e592a30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/checkmypass.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkmypass.py" afterDir="false" />
-    </list>
+    <list default="true" id="dce63f54-94a9-4d8d-a7a6-7cfa6e592a30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
